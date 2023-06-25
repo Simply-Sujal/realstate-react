@@ -7,7 +7,6 @@ import SignUp from './Pages/SignUp'
 import Offers from './Pages/Offers'
 import ForgotPassword from './Pages/ForgotPassword'
 import Header from './Components/Header'
-''
 const App = () => {
   return (
     <>
